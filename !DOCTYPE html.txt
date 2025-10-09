@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>古亘伶 - 個人履歷</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <div class="profile">
+      <img src="profile.jpg" alt="個人照片" />
+      <h1>古亘伶</h1>
+      <p>shanyku0512@gmail.com</p>
+      <p>0979-675-512</p>
+      <p>社恐</p>
+      <p><a href="https://github.com">GitHub</a></p>
+    </div>
+    <div class="section">
+      <h3>技能</h3>
+      <ul>
+        <li>Python、C</li>
+        <li>Git、VS Code</li>
+        <li>AI 基礎</li>
+        <li>英文 (TOEIC 目標900)</li>
+      </ul>
+    </div>
+    <div class="section">
+      <h2>關於我</h2>
+      <p>我是中原大學 電機資訊學院智慧運算與大數據學士班的學生，對人工智慧與資料科學充滿熱情。除了課堂學習外，也積極透過自學 Python 與 AI 專案來培養實作能力，期望未來能投身人工智慧、大數據或通訊相關產業。</p>
+    </div>
+    <div class="section">
+      <h2>學歷</h2>
+      <ul>
+        <li>昌平國小 畢業</li>
+        <li>恆毅中學 畢業</li>
+        <li>新莊高中 畢業</li>
+        <li>中原大學 電機資訊學院 智慧運算與大數據學士班（在學）</li>
+      </ul>
+    </div>
+    <div class="section">
+      <h2>經歷</h2>
+      <ul>
+        <li>社團：羽球社社員:負責翹課到桌遊社打麻將</li>
+        <li>課外學習：自主學習 Python、人工智慧導論</li>
+      </ul>
+    </div>
+    <div class="section">
+      <h2>興趣</h2>
+      <ul>
+        <li>打瓦</li>
+        <li>打羽球</li>
+        <li>看NETFLIX</li>
+        <li>睡覺</li>
+      </ul>
+    </div>
+    <div class="section">
+      <h2>大學規劃</h2>
+      <ul>
+        <li>考取 TOEIC 900 分以上</li>
+        <li>參與 AI 與大數據相關實驗室研究</li>
+        <li>培養音樂興趣（吉他）</li>
+      </ul>
+    </div>
+    <div class="section">
+      <h2>目標</h2>
+      <p>希望能在大學期間累積程式與資料分析實作經驗，畢業後投入人工智慧、大數據或通訊系統領域，並持續精進專業能力。</p>
+    </div>
+    <div class="section">
+      <h2>想說的話</h2>
+      <p>沒有</p>
+    </div>
+    <footer>
+      <p>© 2025 林睿馳 | All Rights Reserved</p>
+    </footer>
+  </div>
+</body>
+</html>
